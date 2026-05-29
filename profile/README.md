@@ -41,7 +41,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Delta-Innovations-ORG/.github/main/assets/logo10.png" alt="Delta Innovations Logo" width="260"/>
+<img src="../assets/logo10.png" alt="Delta Innovations Logo" width="260"/>
 
 <br/><br/>
 
@@ -168,7 +168,7 @@ flowchart LR
 <br/>
 
 <a href="https://delta-innovations-website.vercel.app/">
-  <img src="https://raw.githubusercontent.com/Delta-Innovations-ORG/.github/main/assets/screenshots/website-preview.png" alt="Delta Innovations website preview" width="100%"/>
+  <img src="../assets/screenshots/website-preview.png" alt="Delta Innovations website preview" width="100%"/>
 </a>
 
 <br/><br/>
@@ -202,7 +202,15 @@ Official marketing site — React, TypeScript, Vite, animated brand design, lead
 
 ## Featured repository
 
-[![delta-innovations-website](https://github-readme-stats.vercel.app/api/pin/?username=Delta-Innovations-ORG&repo=delta-innovations-website&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=2563EB&text_color=F8FAFC)](https://github.com/Delta-Innovations-ORG/delta-innovations-website)
+<a href="https://github.com/Delta-Innovations-ORG/delta-innovations-website">
+  <img src="https://img.shields.io/badge/delta--innovations--website-Official%20Site-22D3EE?style=for-the-badge&logo=github&logoColor=white" alt="delta-innovations-website"/>
+</a>
+
+| | |
+|---|---|
+| **Repository** | [Delta-Innovations-ORG/delta-innovations-website](https://github.com/Delta-Innovations-ORG/delta-innovations-website) |
+| **Stack** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+| **Live** | [delta-innovations-website.vercel.app](https://delta-innovations-website.vercel.app/) |
 
 **Official company website** — multi-page React app with SEO, JSON-LD, sitemap, CI/CD, and Vercel deployment.
 
