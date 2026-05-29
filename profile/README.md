@@ -168,7 +168,7 @@ flowchart LR
 <br/>
 
 <a href="https://delta-innovations-website.vercel.app/">
-  <img src="https://raw.githubusercontent.com/Delta-Innovations-ORG/.github/main/assets/screenshots/website-preview.png" alt="Delta Innovations website preview" width="100%"/>
+  <img src="https://github.com/Delta-Innovations-ORG/.github/blob/dbbf1d5cf0a5a4fd2b6e0d5e4a801e0bdc2e2f6c/assets/screenshots/website-preview.png" alt="Delta Innovations website preview" width="100%"/>
 </a>
 
 <br/><br/>
